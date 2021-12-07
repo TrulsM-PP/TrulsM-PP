@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrulsM-PP
-- 👀 I’m interested in data analysis, data science, business intelligence
+- 👀 I’m interested in data analysis, data science, business intelligence, statistics, finance and more.
 - 🌱 I’m currently learning Microsoft Dynamics CRM
 
 <!---
